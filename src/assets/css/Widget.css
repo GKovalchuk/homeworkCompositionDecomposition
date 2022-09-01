@@ -1,0 +1,38 @@
+.widget {
+	height: fit-content;
+
+	page-break-inside: avoid;
+	break-inside: avoid;
+
+	white-space: nowrap;
+
+	margin: 0 1rem 1rem 0;
+	text-align: left;
+}
+.widgetTitle {
+	margin: 0 0 0.5rem 0.2rem;
+
+	font-size: 1.2rem;
+	font-weight: 600;
+	color: #07f;
+	text-decoration: none;
+}
+.imageWidget {
+	width: 5rem;
+	height: 5rem;
+	
+	position: relative;
+	border-radius: 50%;
+
+	overflow: hidden;
+}
+.roundImage {
+	width: 6rem;
+	height: 6rem;
+
+	position: absolute;
+	top: 56.5%;
+	left: 60%;
+
+	transform: translateX(-50%) translateY(-50%);
+}

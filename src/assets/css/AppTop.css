@@ -1,0 +1,13 @@
+.appTop {
+	display: flex;
+	justify-content: center;
+}
+.blockNewsWrapper {
+	margin: auto auto auto -24px;
+}
+.topRight{
+	width: 30%;
+	margin-top: auto;
+	margin-left: 5%;
+	margin-bottom: 0;
+}

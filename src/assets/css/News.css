@@ -1,0 +1,26 @@
+.news {
+	width: 65%;
+	margin-bottom: 1rem;
+}
+.newsSwitch {
+	width: 100%;
+
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	
+	margin-left: 0px;
+
+	white-space: nowrap;
+}
+.ticker {
+	width: 100%;
+		
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+		
+	margin-left: 0px;
+		
+	white-space: nowrap;
+}

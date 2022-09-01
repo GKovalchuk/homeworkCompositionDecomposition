@@ -1,0 +1,13 @@
+.services {
+	width: 70%;
+	max-width: 730px;
+	
+	margin: 0 auto 1% 0;
+	display: flex;
+	justify-content: space-between;
+}
+.services, a {
+	font-size: 1rem;
+	color: #07f;
+	text-decoration: none;
+}

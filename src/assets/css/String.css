@@ -1,0 +1,60 @@
+.string {
+	display: flex;
+	align-content: center;
+	justify-content: start;
+	flex-wrap: nowrap;
+
+	margin: 0.1rem 0;
+
+	text-align: left;
+
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1rem;
+}
+.string div {
+	min-height: 1.5rem;
+	margin: auto 0.2rem;
+}
+.stringPrev {
+	color: black;
+	font-weight: 600;
+	margin-right: 1rem;
+}
+.stringSimple {
+	color: #111213;
+	margin-right: 1rem;
+}
+.stringSpecial {
+	line-height: 1.12rem;
+
+	font-size: 0.9rem;
+	color: #8f96a3;
+}
+.boldText {
+	font-weight: 600;
+}
+.bigText {
+	font-size: 1.2rem;
+}
+.bigTextForImage {
+	font-size: 2rem;
+}
+.blueText {
+	color: #07f;
+	text-decoration: none;
+}
+.inactiveText {
+	opacity: 0.7;
+}
+.iconImg {
+	width: 16px;
+	height: 16px;
+}
+.bigImage {
+	width: 48px;
+	height: 48px;
+}
+.spaceWrap {
+	white-space: pre-wrap;
+}

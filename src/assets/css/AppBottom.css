@@ -1,0 +1,10 @@
+.appBottom {
+	width: 100%;
+	height: auto;
+
+	margin: auto;
+
+	column-width: 32%; /*правило column не работает c display: flex*/
+	column-count: 3; /*для отключения переноса блоков используем page-break-inside: avoid;
+		break-inside: avoid; см. Widget.css*/
+}
